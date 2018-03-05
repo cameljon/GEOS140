@@ -1,0 +1,32 @@
+How is a position described by latitude and longitude?
+
+    Latitude are lines parallel to the equator around the earth.
+    Longitude are vertical great circles with the origin being the Prime Meridian.
+
+Locate the Equator, Tropics of Cancer/Capricorn, Arctic/Antarctic Circles, and the Poles.
+
+    Equator is 0 deg latitude
+    Tropic of Cancer 23.5 deg N
+    Tropic of Capricorn 23.5 deg S
+    Arctic Circle 66.5 deg N
+    Antarctic Circle 66.5 deg S
+    Poles are 90 deg N or S
+
+Know the general locations of the low, mid, and high latitude geographic zones.
+    
+    Low latitudes - 35 deg N to 35 deg S - very warm region, consistent weather throughout the year
+    mid latitudes - ~35 deg to ~55 deg in both N and S - seasonal weather, hot summer, cold winters
+    High latitudes - 55 deg to 90 deg in both N and S - very cold region with short summers
+
+What are the three types of map scale?  How do map scale and map projection affect what we see?
+
+    Written scale - showing distance in relation to size on the map.
+    Representative fraction - a ratio or fraction of actual size
+    Graphic scale (Bar scale) - show actual sizes on the maps, useful if maps are copied and made
+                                smaller or larger than original.
+
+How are remote sensing, global positioning systems, and geographic information systems used in the study of physical geography?
+
+    Remote sensing allows geographers to survey regions without physically being there.
+    GPS allows for higher position accuracy, monitoring plate movements and navigation.
+    GIS is used to manage spacial information about soils, wetlands, vegetation etc.

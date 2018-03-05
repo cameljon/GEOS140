@@ -1,0 +1,62 @@
+1. Open Google Earth (it is a free download if you don’t have it) and search for Eudora, Kansas.
+Zoom out a couple of clicks. Your view should show a little bit of Lawrence to the west, then Eudora in the
+center, and Linwood in the upper right. The most recently available imagery will pop up with the date at the
+bottom. Notice the elevation changes and latitude/longitude changes given at the bottom of the screen as
+you move the cursor over the image. The secondary roads look like a grid of squares. Click on the ruler icon
+(or find it under the Tools Menu), select line, and set the units to measure in miles. Then click on one corner
+of a square and measure the length of the side to the next corner.
+What is the length in miles of one side of a square?
+
+    ~1 mile
+
+Why are the roads lined up like that?
+
+    USPLS - Grids of townships were subdivided by survey into 36 1mi squared areas. Each area is called a section and contains 640 acres.
+
+Click on the ruler icon again, but select path, and keep the units to measure in miles. Click on the Kansas River
+as it leaves Lawrence and using many intermediate points follow the meanders of the river until you reach the
+Kansas River just north of Eudora.
+What is the length in river miles?
+
+    ~8.6 miles
+
+In the lower left, find the layers menu and check the box for roads. You are adding a layer of lines over the
+image. Experiment with adding another layer.
+What did you find out about this area?
+
+    State Road KS10 connects Eudora with Lawerence.
+    Also, currently clear skies!
+
+2. Search for your favorite place (be specific). My favorite place to live or vacation is Aviano Italy.
+The latitude is: 46 deg 4' 9" N
+The longitude is: 12 deg 35' 16" E
+Is your favorite place in the low, mid, or high latitudes?
+
+    Mid latitudes.
+
+What is the most recent image date?
+    
+    6/25/2017
+
+What are some typical elevation values at your favorite place?
+
+    ~400-500ft
+
+Describe what you see on the image in terms of natural and cultural features.
+
+    The town is sitting at the foot of the Alps, making most roads run along the base of the mountains.
+    There are irregular farm plots, unlike the maps of Kansas.
+
+Use the historical imagery tool (circle with green arrow) and go back in time to see what this area looked like.
+What is the date of that image?
+
+    8/30/2002
+
+What was different about the area in the past?
+
+    Very little has changed. Most of the area is very old buildings with little growth.
+
+3. Explain how Google Earth is both an example of remote sensing and a geographic information system.
+
+    As a remote sening tool, we can survey regions without having to go there. We can compare and contrast how features of those regions change over time; vegetation, waterways, human development.
+    As a GIS, we can overlay various information and see how they relate to each other as well as defining the region. Different layers could include weather data, roads and highways, water data, and town and city boundaries.
