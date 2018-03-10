@@ -36,7 +36,7 @@ From: https://pmm.nasa.gov/education/water-cycle
 
 * What is an adiabatic change?
 
-    > Temperature changes that are solely from the expansion and compression of air due to pressure flucuations
+    > Temperature changes that are solely from the expansion and compression of air due to pressure fluctuations
 
 * Describe the characteristics of the stratus, cumulus, and cirrus cloud classes.
 
@@ -70,7 +70,7 @@ From: https://pmm.nasa.gov/education/water-cycle
 
 * Describe the changes that take place in an ascending or descending air mass in unstable atmospheric conditions.
 
-    > Warm air rises within a relatively cool surrounding air. The two bodies of air have different environmental lapse rates. As the air rises it will reach the level of condensation and start cooling at the wet adiabatic lapse rate. The temperature difference between the two bodies of air will cause condensation at the level of condensation and clouds will form. If futher cooling happens then rain will form.
+    > Warm air rises within a relatively cool surrounding air. The two bodies of air have different environmental lapse rates. As the air rises it will reach the level of condensation and start cooling at the wet adiabatic lapse rate. The temperature difference between the two bodies of air will cause condensation at the level of condensation and clouds will form. If further cooling happens then rain will form.
 
 * How do long-term patterns of atmospheric pressure relate to droughts?
 
